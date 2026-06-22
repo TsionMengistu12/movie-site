@@ -87,8 +87,9 @@ python -m streamlit run app.py
 - Recommendation ranking table
 
 ## The Project look
-
-
+<img width="1828" height="872" alt="image" src="https://github.com/user-attachments/assets/92eb995f-bab8-4f1f-be0c-addb0fb326cb" />
+<img width="1608" height="593" alt="image" src="https://github.com/user-attachments/assets/70dccdf6-412e-4ce4-8b0b-cb871d30717d" />
+<img width="1096" height="572" alt="image" src="https://github.com/user-attachments/assets/466ba79d-3a9c-450d-ba04-b2d4bc745c79" />
 
 ## The Evaluation.py running
 <img width="517" height="170" alt="image" src="https://github.com/user-attachments/assets/2fa63a82-90b8-48ba-9930-df50284964db" />
